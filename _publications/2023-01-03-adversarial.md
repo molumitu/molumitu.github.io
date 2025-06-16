@@ -10,4 +10,4 @@ venue: '🚗🧠 Transportation Research Part C: Emerging Technologies (Part C)'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-Ren†, Yangang; Zhan†, Guojian; Tang, Liye; Li, Shengbo Eben; Jiang, Jianhua; Li, Keqiang; Duan, Jingliang
+Yangang Ren†, **Guojian Zhan†**, Liye Tang, Shengbo Eben Li, Jianhua Jiang, Keqiang Li, Jingliang Duan
