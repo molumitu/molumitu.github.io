@@ -17,19 +17,19 @@ redirect_from:
 ---
 
 # GPA & Awards
-🎓 I received my B.Eng. degree from Tsinghua University with a GPA of 3.78/4.0
-🎓 I am currently pursuing my Ph.D. with a graduate GPA of 3.93/4.0.  
-🏅 I have been recognized with the Comprehensive Excellence Award and named an Outstanding Graduate of Tsinghua University (Top 10\%).
-🏅 I was awarded the 2025 National Graduate Scholarship (Top 0.2\% nationwide).
+- 🎓 I received my B.Eng. degree from Tsinghua University with a GPA of 3.78/4.0.
+- 🎓 I am currently pursuing my Ph.D. with a graduate GPA of 3.93/4.0.  
+- 🏅 I have been recognized with the Comprehensive Excellence Award and named an Outstanding Graduate of Tsinghua University (Top 10\%).
+- 🏅 I was awarded the 2025 National Graduate Scholarship (Top 0.2\% nationwide).
 
 # News & Updates
-- **2025-09**: BOOM and MPGE are accepted by NeurIPS 2025.
-- **2025-08**: BPO is accepted by IEEE TNNLS.
-
+- **2025-09**: BOOM and MPGE are accepted by NeurIPS 2025!
+- **2025-08**: BPO is accepted by IEEE TNNLS!
+- **2025-05**: PINPE is accepted by IEEE RAL!
 
 ## 🤝 Let's Collaborate!
 
-💡 I'm always open to **research collaborations**, particularly in areas such as **Reinforcement Learning** and **Embodied AI**. If you're exploring innovative ideas, feel free to reach out — I'd love to hear from you and explore potential synergies!
+I'm always open to **research collaborations**, particularly in areas such as **Reinforcement Learning** and **Embodied AI**. If you're exploring innovative ideas, feel free to reach out — I'd love to hear from you and explore potential synergies!
 
 ---
 
@@ -39,8 +39,6 @@ redirect_from:
 - **Email**: [zishangzhan@gmail.com](mailto:zgj21@berkeley.edu)
 
 ---
-
-🚀 Looking forward to collaborating with you!   
 
 # Publications
   <ul>{% for post in site.publications reversed %}
