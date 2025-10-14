@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Towards Embodied AI!"
+title: "Reinforcement Learning is the Ultimate Answer!"
 author_profile: true
 redirect_from: 
   - /about/
