@@ -17,8 +17,14 @@ redirect_from:
 ---
 
 # GPA & Awards
-🎓 I received my B.Eng. degree from Tsinghua University with a GPA of 3.78/4.0, and I am currently pursuing my Ph.D. with a graduate GPA of 3.93/4.0.  
+🎓 I received my B.Eng. degree from Tsinghua University with a GPA of 3.78/4.0
+🎓 I am currently pursuing my Ph.D. with a graduate GPA of 3.93/4.0.  
 🏅 I have been recognized with the Comprehensive Excellence Award and named an Outstanding Graduate of Tsinghua University (Top 10\%).
+🏅 I was awarded the 2025 National Graduate Scholarship (Top 0.2\% nationwide).
+
+# News & Updates
+- **2025-09**: BOOM and MPGE are accepted by NeurIPS 2025.
+- **2025-08**: BPO is accepted by IEEE TNNLS.
 
 
 ## 🤝 Let's Collaborate!
