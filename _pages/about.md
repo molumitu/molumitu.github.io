@@ -27,6 +27,10 @@ redirect_from:
 - **2025-08**: BPO is accepted by IEEE TNNLS!
 - **2025-05**: PINPE is accepted by IEEE RAL!
 
+# Reviewing & Organizing
+- 📝 I am a reviewer for many conferences and journals in the fields of AI and robotics.
+(NeurIPS, ICML, ICLR, CoRL, ICRA, IROS, IEEE TNNLS, IEEE RAL, IEEE TITS, etc.)
+
 ## 🤝 Let's Collaborate!
 
 I'm always open to **research collaborations**, particularly in areas such as **Reinforcement Learning** and **Embodied AI**. If you're exploring innovative ideas, feel free to reach out — I'd love to hear from you and explore potential synergies!
