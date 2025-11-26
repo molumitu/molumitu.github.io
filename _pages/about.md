@@ -19,8 +19,8 @@ redirect_from:
 # GPA & Awards
 - 🎓 I received my B.Eng. degree from Tsinghua University with a GPA of 3.78/4.0.
 - 🎓 I am currently pursuing my Ph.D. with a graduate GPA of 3.93/4.0.  
-- 🏅 I have been recognized with the Comprehensive Excellence Award and named an Outstanding Graduate of Tsinghua University (Top 10\%).
-- 🏅 I was awarded the 2025 National Graduate Scholarship (Top 0.2\% nationwide).
+- 🏅 I have been recognized with the Comprehensive Excellence Award and named an Outstanding Graduate of Tsinghua University 优良毕业生 (Top 10\%).
+- 🏅 I was awarded the 2025 National Graduate Scholarship 研究生国奖 (Top 0.2\% nationwide).
 
 # News & Updates
 - **2025-09**: BOOM and MPGE are accepted by NeurIPS 2025!
