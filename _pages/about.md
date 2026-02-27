@@ -23,6 +23,8 @@ redirect_from:
 - 🏅 I was awarded the 2025 National Graduate Scholarship 研究生国奖 (Top 0.2\% nationwide).
 
 # News & Updates
+- **2026-02**: MVP is selected as oral presentation (Top 1\%) by ICLR 2026!
+- **2026-01**: MVP is accepted by ICLR 2026!
 - **2025-09**: BOOM and MPGE are accepted by NeurIPS 2025!
 - **2025-08**: BPO is accepted by IEEE TNNLS!
 - **2025-05**: PINPE is accepted by IEEE RAL!
