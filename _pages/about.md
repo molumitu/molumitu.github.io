@@ -27,6 +27,7 @@ redirect_from:
 
 # News & Updates
 - **2026-04**: Several papers are accepted by ICML 2026!
+- **2026-03**: Revision of CTPG was submitted to TPAMI — hope for good luck!
 - **2026-02**: MVP is selected as oral presentation (Top 1\%) by ICLR 2026!
 - **2026-01**: MVP is accepted by ICLR 2026!
 - **2025-09**: BOOM and MPGE are accepted by NeurIPS 2025!
