@@ -2,7 +2,7 @@
 title: "Mean Flow Policy with Instantaneous Velocity Constraint for One-step Action Generation"
 collection: publications
 permalink: /publication/2026-01-01-mean_flow_policy
-date: 2026-01-01
+date: 2026-01-06
 venue: '🧠 International Conference on Learning Representations (ICLR)'
 note: 'CCF-A conference, Oral, top 1%'
 ---

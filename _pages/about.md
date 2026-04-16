@@ -12,6 +12,9 @@ redirect_from:
 ## Short Bio  
 🐣 Born in 2000, I grew up alongside the rise of intelligent machines. I received my B.Eng. degree from the School of Vehicle and Mobility, **Tsinghua University, Beijing, China** <img src="https://flagcdn.com/w20/cn.png" alt="China flag" />, in 2021. I am currently pursuing a Ph.D. in Mechanical Engineering at the same school. From 2025 to 2026, I am a visiting student scholar at the Department of Mechanical Engineering, **UC Berkeley, California, United States** <img src="https://flagcdn.com/w20/us.png" alt="USA flag" />. My research focuses on ⚙️ control theory, 🧠 reinforcement learning, and their applications in 🚗 autonomous vehicles and 🤖 robotics.
 
+## Curriculum Vitae  
+- 📄 My CV is available here: [Guojian_Zhan_Resume_2604.pdf](https://github.com/molumitu/molumitu.github.io/blob/master/Guojian_Zhan_Resume_2604.pdf)
+
 # 👋 Welcome to <span style="color:#007bff; font-weight:bold;">@molumitu</span>'s Personal Page  
 
 ---
