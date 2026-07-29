@@ -16,7 +16,7 @@ redirect_from:
 <div style="margin: 1.25rem 0; padding: 1rem 1.25rem; border-left: 4px solid #007bff; border-radius: 4px; background-color: #f3f8ff;">
   <strong>Research & Career Highlights</strong>
   <ul style="margin-top: 0.6rem; margin-bottom: 0;">
-    <li><strong>6 papers accepted at top-tier (A-level) venues</strong>, including an <strong>ICLR 2026 Oral (top 1%)</strong>.</li>
+    <li><strong>7 first/co-fist papers accepted at top-tier (A-level) venues</strong>, including an <strong>ICLR 2026 Oral (top 1%)</strong>.</li>
     <li><strong>4 additional papers currently under review</strong> at top-tier (A-level) venues.</li>
     <li>Actively seeking <strong>industry opportunities in LLM post-training</strong>, particularly in reinforcement learning, reasoning, and agentic systems.</li>
   </ul>
@@ -24,19 +24,22 @@ redirect_from:
 
 ## Curriculum Vitae
 
-📄 My CV is available here: [Guojian_Zhan_Resume.pdf](https://cloud.tsinghua.edu.cn/f/e61af51e45fe437ba5a7/?dl=1)
+📄 My CV is available here: [Guojian_Zhan_Resume.pdf](https://cloud.tsinghua.edu.cn/f/63e5b2ed52694454990b/?dl=1)
 
 ## Research Intern Experience
 
 ### Didi <span style="color:#007bff;">Voyager AI Lab</span>
 
-- Worked on reinforcement learning post-training for a multimodal planning model, improving MPCI from 30 to 50.
-- Developed **Stable RLVR** methods to enhance the reasoning capabilities of large language models.
+- Worked on RL post-training of a trajectory planner. Our **iDriveVLA ranked 1st** on the [NAVSIM leaderboard](https://huggingface.co/spaces/AGC2024-P/e2e-driving-navtest) with a score of **94.8517**.
 
 ### ByteDance <span style="color:#007bff;">Seed Robotics</span>
 
-- Worked on **RLVR** post-training of vision-language models (VLMs) for planning.
-- Explored **Agentic RL** post-training to strengthen the planning capabilities of VLM-based agents.
+- Worked on **Stable RLVR** to enhance LLM/VLM reasoning capabilities.
+- Worked on **Agentic RL** post-training of vision-language models (VLMs) for planning.
+
+### RedNote <span style="color:#007bff;">HiLab ACE</span>
+
+- Worked on **SFT/RLVR/Agentic RL** post-training of open-source vision-language models (VLMs).
 
 ## GPA & Awards
 
@@ -47,11 +50,11 @@ redirect_from:
 
 ## News & Updates
 
-- **2026-05**: SAFLOW and STAPO were submitted to NeurIPS 2026.
+- **2026-05**: SAFLOW, STAPO, GeMP, GENIO were submitted to NeurIPS 2026.
 - **2026-04**: BOOM-H, BOOM-L, DSAC-E, DSAC-AID, and DADP were accepted to ICML 2026.
 - **2026-02**: MVP was selected for an oral presentation at ICLR 2026 (top 1%).
 - **2026-01**: MVP was accepted to ICLR 2026.
-- **2025-12**: A revision of CTPG was submitted to IEEE TPAMI.
+- **2025-12**: CTPG was accepted to IEEE TPAMI.
 - **2025-09**: BOOM and MPGE were accepted to NeurIPS 2025.
 - **2025-08**: BPO was accepted by IEEE TNNLS.
 - **2025-05**: PINPE was accepted by IEEE RAL.
@@ -88,8 +91,10 @@ BOOM is a world-model-based RL framework that creates a bootstrap loop between a
 - **Email**: [zgj21@berkeley.edu](mailto:zgj21@berkeley.edu)
 - **Email**: [zishangzhan@gmail.com](mailto:zishangzhan@gmail.com)
 
+{% comment %}
 ## Publications
 
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+{% endcomment %}
