@@ -16,7 +16,7 @@ redirect_from:
 <div style="margin: 1.25rem 0; padding: 1rem 1.25rem; border-left: 4px solid #007bff; border-radius: 4px; background-color: #f3f8ff;">
   <strong>Research & Career Highlights</strong>
   <ul style="margin-top: 0.6rem; margin-bottom: 0;">
-    <li><strong>7 first/co-fist papers accepted at top-tier (A-level) venues</strong>, including an <strong>ICLR 2026 Oral (top 1%)</strong>.</li>
+    <li><strong>10 first/co-fist papers accepted at top-tier (A-level) venues</strong>, including an <strong>ICLR 2026 Oral (top 1%)</strong>.</li>
     <li><strong>4 additional papers currently under review</strong> at top-tier (A-level) venues.</li>
     <li>Actively seeking <strong>industry opportunities in LLM post-training</strong>, particularly in reinforcement learning, reasoning, and agentic systems.</li>
   </ul>
@@ -24,7 +24,7 @@ redirect_from:
 
 ## Curriculum Vitae
 
-📄 My CV is available here: [Guojian_Zhan_Resume.pdf](https://cloud.tsinghua.edu.cn/f/63e5b2ed52694454990b/?dl=1)
+📄 My CV is available here: [Guojian_Zhan_Resume.pdf](https://cloud.tsinghua.edu.cn/f/767846724c0c4669a576/?dl=1)
 
 ## Research Intern Experience
 
@@ -37,7 +37,7 @@ redirect_from:
 - Worked on **Stable RLVR** to enhance LLM/VLM reasoning capabilities.
 - Worked on **Agentic RL** post-training of vision-language models (VLMs) for planning.
 
-### RedNote <span style="color:#007bff;">HiLab ACE</span>
+### RedNote <span style="color:#007bff;">AllSpark</span>
 
 - Worked on **SFT/RLVR/Agentic RL** post-training of open-source vision-language models (VLMs).
 
@@ -49,7 +49,8 @@ redirect_from:
 - 🏅 Awarded the 2025 National Graduate Scholarship (研究生国家奖学金; top 0.2% nationwide).
 
 ## News & Updates
-
+- **2026-09**: ActEffect were submitted to ICLR 2027.
+- **2026-08**: SAFLOW, STAPO, GeMP, GENIO were accepted to NeurIPS 2026.
 - **2026-05**: SAFLOW, STAPO, GeMP, GENIO were submitted to NeurIPS 2026.
 - **2026-04**: BOOM-H, BOOM-L, DSAC-E, DSAC-AID, and DADP were accepted to ICML 2026.
 - **2026-02**: MVP was selected for an oral presentation at ICLR 2026 (top 1%).
@@ -63,7 +64,7 @@ redirect_from:
 
 ### Stable RL for LLMs
 
-**STAPO** ([arXiv](https://arxiv.org/abs/2602.15620)), submitted to NeurIPS 2026.
+**STAPO** ([arXiv](https://arxiv.org/abs/2602.15620)), NeurIPS 2026.
 
 Reinforcement learning holds great promise for improving LLM reasoning, but training can be unstable, with abrupt entropy shifts and gradient spikes. Through token-level analysis, we found that filtering a small fraction of spurious tokens can stabilize entropy dynamics and enable steady, sustained performance gains throughout RL training.
 
